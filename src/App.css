@@ -1,0 +1,17 @@
+.button {
+  color: burlywood;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+.item {
+  background-color: cornsilk;
+  padding: 20px;
+  color: black;
+}
+* {
+  backdrop-filter: blur(2px);
+}
